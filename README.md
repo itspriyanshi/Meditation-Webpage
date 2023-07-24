@@ -5,4 +5,9 @@ intuitive play/pause controls.
 Enhanced user experience with interactive elements such as a progress indicator and volume control 
 for a seamless meditation session
 
-# SnapShots
+# Link to WebPage
+[https://meditation10.netlify.app/](url)
+
+# Working
+https://github.com/itspriyanshi/Meditation-Webpage/assets/101289071/aecb37af-a18f-4a97-942a-3acacd4edae2
+
